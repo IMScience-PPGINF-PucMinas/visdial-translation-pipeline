@@ -330,7 +330,7 @@ Translation models from:
 
 ## Support
 
-For issues, questions, or contributions, please [open an issue/contact information].
+For issues, questions, or contributions, please contact us via email: milena.adao@sga.pucminas.br
 
 ## Related Resources
 
