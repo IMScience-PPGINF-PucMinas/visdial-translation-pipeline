@@ -1,0 +1,10 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+tqdm>=4.65.0
+
+# Optional: For better performance
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+sacremoses>=0.0.53
+
