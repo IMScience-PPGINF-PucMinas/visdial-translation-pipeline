@@ -1,6 +1,6 @@
 # VisDial Multilingual Translation Pipeline
 
-Complete pipeline for translating VisDial datasets to Portuguese and Spanish, with human evaluation tools.
+Complete pipeline for translating VisDial datasets to Portuguese, Spanish or other language, with human evaluation tools.
 
 **Based on:** "Multilingual Visual Understanding: Extending Visual Dialog to Portuguese and Spanish Through Cross-Modal Adaptation" (CIARP 2025)
 
@@ -14,10 +14,12 @@ This repository provides:
 
 ## Quick Start
 
+
+
 ### 1. Install Dependencies
 
 ```bash
-pip install torch transformers tqdm
+pip install -r requirements.txt
 ```
 
 ### 2. Translate Dataset
@@ -272,9 +274,6 @@ If you use this pipeline or the datasets, please cite:
 }
 ```
 
-## License
-
-[Specify your license here]
 
 ## Authors
 
@@ -300,4 +299,3 @@ For issues, questions, or contributions, please [open an issue/contact informati
 
 - Original VisDial: https://visualdialog.org/
 - MarianMT Models: https://huggingface.co/Helsinki-NLP
-- Paper: [Link when available after review]
