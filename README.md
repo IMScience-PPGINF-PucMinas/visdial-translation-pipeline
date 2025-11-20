@@ -261,6 +261,43 @@ MODELS = {
 }
 ```
 
+## 📚 Datasets
+
+<table>
+<tr>
+<td width="33%">
+
+### 🇧🇷 VisDial-PT
+**Brazilian Portuguese**
+
+~1.2M dialog pairs
+
+[📥 Download Dataset](https://github.com/IMScience-PPGINF-PucMinas/visdial-pt-brazilian)
+
+</td>
+<td width="33%">
+
+### 🇪🇸 VisDial-ES
+**Spanish**
+
+~1.2M dialog pairs
+
+[📥 Download Dataset](https://github.com/IMScience-PPGINF-PucMinas/visdial-pt-spanish)
+
+</td>
+<td width="33%">
+
+### 🇬🇧 VisDial v1.0
+**English (Original)**
+
+~1.2M dialog pairs
+
+[📥 Download Dataset](https://visualdialog.org/data)
+
+</td>
+</tr>
+</table>
+
 ## Citation
 
 If you use this pipeline or the datasets, please cite:
